@@ -169,3 +169,5 @@ NOTE: this is a code snippet from a form and is not the complete code.
  <img src="Wireframes/media.png" alt="Media page wireframe" width="200" height="auto"> | <img src="Wireframes/notablePlaces.png" alt="Notable places page wireframe" width="200" height="auto"> | <img src="Wireframes/specialEventsAndAnnouncements.png" alt="Special events and announcements page wireframe" width="200" height="auto"> | | |
          
 </div>
+
+<a href="https://github.com/gradlund/personalWebsite/blob/main/README.md#personal-website-project">Back to top</a>
