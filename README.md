@@ -52,7 +52,7 @@ NOTE: Code snippets will be provided for all five of these languages/frameworks.
 
 
          
-## The Code
+## Code Snippets
 
 ### HTML
 
