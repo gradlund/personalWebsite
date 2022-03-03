@@ -1,6 +1,6 @@
 # Personal Website Project
 
-This website was a project for Introduction to Web Development. The site was built in Visual Studio Code utilizing HTML, CSS, and JavaScript languages, as well as Bootstrap and jQuery frameworks. Wireframes and a sitemap can be found in their respective folders in this repo. Due to Grand Canyon University policy, code snippets are only allowed and will be the only code provided. 
+This website was a project for Introduction to Web Development. The site was built in Visual Studio Code utilizing HTML, CSS, and JavaScript languages, as well as Bootstrap and jQuery frameworks. Wireframes and a sitemap can be found at the bottom of the Markdown as well as in their respective folders in this repo. Due to Grand Canyon University policy, code snippets are only allowed and will be the only code provided. 
 
 #### Languages
 HTML, CSS, and JavaScript
@@ -154,3 +154,18 @@ Bootstrap's button class of `btn btn-light` styled my submit button to a whiteis
      </div> 
      
 NOTE: this is a code snippet from a form and is not the complete code. 
+
+
+## Sitemap
+
+<div align="center"><img src="Sitemap/sitemap.png" alt="Personal website sitemap" width="600"></div>
+
+## Wiremaps
+
+<div align="center">
+
+| <img src="Wireframes/welcome.png" alt="Home page wireframe" width="200" height="auto"> | <img src="Wireframes/aboutMe.png" alt="About me page wireframe" width="200" height="auto"> | <img src="Wireframes/contact.png" alt="About me page wireframe" width="200" height="auto"> | <img src="Wireframes/hobbies.png" alt="Hobbies page wireframe" width="200" height="auto"> |
+|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+ <img src="Wireframes/media.png" alt="Media page wireframe" width="200" height="auto"> | <img src="Wireframes/notablePlaces.png" alt="Notable places page wireframe" width="200" height="auto"> | <img src="Wireframes/specialEventsAndAnnouncements.png" alt="Special events and announcements page wireframe" width="200" height="auto"> | | |
+         
+</div>
