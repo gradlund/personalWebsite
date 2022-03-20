@@ -131,9 +131,9 @@ jQuery simplifies JavaScript code.
 
 This jQuery code uses document ready to make sure that the page has loaded before the function is executed. The function will load the fragment/_navbar.html into the nav id. For reference, this fragment is the navigation bar code. So, the function will load the navigation bar into the nav id that is located on every page.
 
-         $(document).ready(function(){
-                  $('#nav').load("fragments/_navbar.html");
-         });
+     $(document).ready(function(){
+         $('#nav').load("fragments/_navbar.html");
+     });
      
 
 <br/>
